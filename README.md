@@ -51,16 +51,6 @@ The notebook downloads all data directly from the official APIs when it runs.
 | `taylor_rule_chart.png` | Figure 1: policy rates vs the Taylor rule |
 | `requirements.txt` | Python dependencies |
 
-## How to run
-
-**Google Colab (no installation):** open [colab.research.google.com](https://colab.research.google.com), go to **File → Upload notebook**, then **Runtime → Run all**.
-
-**Locally:**
-
-```bash
-pip install -r requirements.txt
-jupyter notebook taylor_rule_analysis.ipynb
-```
 
 ## Limitations and further work
 
@@ -75,4 +65,4 @@ Code developed with the assistance of an AI coding tool. The research question, 
 
 ## Author
 
-[Your name], Year 12, studying Economics, Mathematics, Further Mathematics and Physics.
+Nikhil, Year 12, studying Economics, Mathematics, Further Mathematics and Physics.
