@@ -65,4 +65,4 @@ Code developed with the assistance of an AI coding tool. The research question, 
 
 ## Author
 
-Nikhil, Year 12, studying Economics, Mathematics, Further Mathematics and Physics.
+Nikhil, Year 12, studying Economics, Mathematics, Further Mathematics, German and Physics.
